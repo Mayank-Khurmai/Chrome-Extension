@@ -1,5 +1,10 @@
 body{
-    width: 250px;
-    height: 350px;
-    background-color: aqua;
+    width: 500px;
+    height: 600px;
+    background-color: rgb(126, 214, 188);
+}
+
+h1{
+    text-align: center;
+    color: brown;
 }
