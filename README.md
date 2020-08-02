@@ -1,6 +1,6 @@
 # Chrome Extension to retrive Browser History 
 
-.
+
 ---------By--------
 
 Mayank Kumar Khurmai   
